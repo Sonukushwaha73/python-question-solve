@@ -1,0 +1,6 @@
+#separate each digit of a number and print it on the new 
+
+a=256
+while a > 0:
+     print(a % 10)
+     a=a+1
